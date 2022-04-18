@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = claudioclemente@hotmail.it
+	name = Claudio Clemente
